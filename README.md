@@ -1,6 +1,6 @@
 ## Identitas
-Nama  : Feri Alfajri
-NIM   : 123190088
+- Nama  : Feri Alfajri
+- NIM   : 123190088
 
 ## Getting Started
 
