@@ -13,7 +13,7 @@ public class Mobil extends Kendaraan {
         this.kecelakaan = kecelakaan;
     }
 
-    void setPlat(int plat){
+    public void setPlat(int plat){
         this.plat=plat;
     }
 
