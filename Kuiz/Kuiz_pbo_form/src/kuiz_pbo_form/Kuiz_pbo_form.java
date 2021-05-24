@@ -16,6 +16,7 @@ public class Kuiz_pbo_form {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        new firstForm().show();
     }
     
 }
